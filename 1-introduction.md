@@ -1,0 +1,31 @@
+# Introduction
+
+Around 15 minutes ago, I remembered that this is what I am doing today, and decided to just go for it. This may be an incredibly stupid idea. Here are the issues with it:
+
+- For one, I only have one day to hit up people at work. This severly limits my ability to actually sell services to companies.
+- Three days is an incredibly short time to sell something of worth that people are going to buy, and it's not enough time at all to market to others.
+- The goal on the _money_ as opposed to the _value_ I provide to others is a negative. I'll need to intentionally offset this in my thinking as much as possible. The real goal is to provided $2000 in value, not just in exchange.
+
+(Actually, for that last point: It might be worth removing the donate buttons from my front page. That makes me feel like I am dependant on charity. I'm not. I'll revisit this later. That may have a poor marketing aspect. For now, I've added in a note that I am not a charity.)
+
+I set up this GitHub repository to be my blog, so that people can follow along. I plan to tweet about it as I go along, too. It might be interesting to make an automatic GitHub Blog to Twitter conversion kit, actually, that people could use to do things like this.
+
+Let's scope that out next. I've opened an issue for that in #1.
+
+## What's next?
+
+Well, I have a few things I need to do today.
+
+- [x] [Maintainer.io](https://maintainer.io) tickets. Every day, I check all of the issues that are new for my clients for whom I do issue triaging and community management. I've already done this today. Good.
+- [ ] Write a [Weekly Newsletter](https://tinyletter.com/richlitt). I can use this as a launching platform for this.
+- [ ] Write a [Patreon](https://www.patreon.com/home) newsletter and send it to them. I've got a few patrons there, and they expect one newsletter a week.
+- [ ] Emails. I need to basically go through them and figure out what should be done. More on that when I get to it.
+- [ ] Review the [Open Source Cities](https://github.com/opensourcecities/montreal/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc) new website. I've been a few weeks late on this one, due to focusing on my thesis.
+- [ ] Brunch with Pablo?
+- [ ] Maybe a party tonight with Ian? Probably going to miss this, but it's there.
+
+I think that's it, for my actual needs for the day. Besides that, I'm wide open.
+
+First, let's tweet the basic repository, and then let's add this Introduction post to [Buffer](http://buffer.com/) for the time being. Actually, I'm using GitHub, Twitter, and Buffer for this. Maybe I should reach out to them and ask for sponsorship? Maybe I can make a site for this blog on [Netlify](https://www.netlify.com/), too, and then reach out to them.
+
+I've opened #2 and #3 just now for those. Ok, let's go.
