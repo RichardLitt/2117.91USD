@@ -4,9 +4,16 @@
 
 Follow along by clicking on the blog posts above!
 
+Currently earned: $0.00
+
 ## How?
 
 I have no idea. I'm going to figure that out next. This is where I will be logging my efforts.
+
+## How can I follow along?
+
+- Watch or Star this repository
+- Hit me up on Twitter! Ping [@richlitt](https://twitter.com). I'm watching everything today. Or send me an email.
 
 ## What is this repository
 
