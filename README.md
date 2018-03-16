@@ -4,7 +4,8 @@
 
 Follow along by clicking on the blog posts above!
 
-Currently earned: $0.00
+Currently earned: $10.00.  
+_Contracted but not yet invoiced: $250.00._
 
 ## How?
 
