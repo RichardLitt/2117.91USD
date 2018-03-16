@@ -13,7 +13,7 @@ I have no idea. I'm going to figure that out next. This is where I will be loggi
 ## How can I follow along?
 
 - Watch or Star this repository
-- Hit me up on Twitter! Ping [@richlitt](https://twitter.com). I'm watching everything today. Or send me an email.
+- Hit me up on Twitter! Ping [@richlitt](https://twitter.com/richlitt). I'm watching everything today. Or send me an email.
 
 ## What is this repository
 
@@ -29,7 +29,7 @@ Arbitrary constraints are assets. I'm hoping that this goal will help give me th
 
 ## Can I help?
 
-Of course! [Open an issue](https://github.com/RichardLitt/2117.91USD/issues/new) with your questions, or write me at [richard+2117@burntfen.com](mailto:richard+2117@burntfen.com), or hit me up on Twitter at [@richlitt](https://twitter.com).
+Of course! [Open an issue](https://github.com/RichardLitt/2117.91USD/issues/new) with your questions, or write me at [richard+2117@burntfen.com](mailto:richard+2117@burntfen.com), or hit me up on Twitter at [@richlitt](https://twitter.com/richlitt).
 
 ## If you want to donate money.
 
