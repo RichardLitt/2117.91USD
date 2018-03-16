@@ -5,7 +5,13 @@ I just tweeted ["I'm going on an experiment. Want to follow along and join me? F
 Twitter said that I could reach more if I pay. It suggested $500, to reach 130k people. I don't think I need to spend that much money for that, and it also only said I could reach Canada, Quebec, or Montreal people. Screw that. I'll see if my local networks are interested, first.
 
 I need a few things:
-- [ ] A counter to show my progress
-- [ ] A way for people to feel involved besides just reading. Twitter?
+- [x] A counter to show my progress
+- [x] A way for people to feel involved besides just reading. Twitter?
 
 I just renamed this post to 'The First Tweet' from 'Launching'. I'll need to remember to name sections appropriately.
+
+## Post mortem
+
+Ok, those first two things are done. Let's start using post-mortems to do this sort of thing.
+
+Oh, shoot, I never schedule the second post. Let's do that now.
