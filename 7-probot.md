@@ -1,0 +1,9 @@
+# Probot
+
+Probot is an awesome idea that Brandon Keepers made for GitHub. Basically, it's a bot system that can be utilised to do all sorts of things on open source repositories that humans don't really have to do. One is closing old issues. Another could be not merging PRs unless they are ready for merging. 
+
+You can read about Probot here: http://probot.github.io/
+
+I just installed the Stale bot on [The Great Suspender](https://github.com/deanoemcke/thegreatsuspender), which is an app that removes old tabs that you have open to save memory on your computer. If you haven't heard of it, go check it out - especially if you have too many tabs open. Dean is the creator and only maintainer, so being able to help him out is great.
+
+I've been avoiding using Probot too much, because I don't necessarily think that having bots is great for OSS. I code because I want to interface with _humans_, not with automation. However, for some maintainers, the cost of doing work without the bots is actually too high - so, they're a good compromise.
