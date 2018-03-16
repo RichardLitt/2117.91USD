@@ -1,0 +1,7 @@
+# First Contact
+
+... and, just like that, @deanoemcke has opened an issue with a job offer for me. He wants me to set up a website to auction off his kid's art, to pay for their education. I think this is a pretty awesome idea. I pitched $75, but I think I'd actually be happy to do it for lower. We'll see what Dean says. Of course, he's reading this; and, of course, I've seen his kid's artwork. Dean's a friend of mine.
+
+That's interesting. He was the first person I told about this project. That means that direct contact is probably the best way for me to get interest in this. There's been some likes on Twitter, a few retweets. We'll see how that goes.
+
+I also got a message from Brian now. We were supposed to talk at the moment. I am going to push this post, and then call him.
