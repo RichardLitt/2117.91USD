@@ -24,10 +24,11 @@ Arbitrary constraints are assets. I'm hoping that this goal will help give me th
 
 Of course! [Open an issue](https://github.com/RichardLitt/2117.91USD/issues/new) with your questions, or write me at [richard+2117@burntfen.com](mailto:richard+2117@burntfen.com), or hit me up on Twitter at [@richlitt](https://twitter.com).
 
-## [If you want to donate money.](https://plasso.com/richard@burntfen.com)
+## If you want to donate money.
 
 I am _not_ a charity case. I plan to make money by providing services. But if you're a charitable person, I certainly won't stop you. 🙇‍
 
+USD: [Click here](https://plasso.com/richard@burntfen.com)  
 BTC: `3Evu7f14y9wmpiTbs3yL3wr1eSB9KB8xEd`  
 ETH: `0x5f6c46fE24B412ba3d935FEdA5a590e8d5f264cC`  
 LTC: `M8oEz3hUFn2SrsV1gzDGXV63zwPEMGPdMU`  
