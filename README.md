@@ -7,13 +7,30 @@ Follow along by clicking on the blog posts above!
 Currently earned: $10.00.  
 _Contracted but not yet invoiced: $250.00._
 
+## Live Blogging
+
+- [1 - Introduction](1-introduction.md)
+- [2 - The-first tweet](2-the-first-tweet.md)
+- [3 - First contact](3-first-contact.md)
+- [4 - Reputation](4-reputation.md)
+- [5 - Small notes and buffer](5-small-notes-and-buffer.md)
+- [6 - First client](6-first-client.md)
+- [7 - Probot](7-probot.md)
+- [8 - Machine learning](8-machine-learning.md)
+- [9 - Marketing this project](9-marketing-this-project.md)
+- [10 - Hunger](10-hunger.md)
+- [11 - Afternoon goals](11-afternoon-goals.md)
+- [12 - Project statement for patreon](12-project-statement-for-patreon.md)
+- [13 - Adventure branding](13-adventure-branding.md)
+- [14 - Setting up a blog](14-setting-up-a-blog.md)
+
 ## How?
 
 I have no idea. I'm going to figure that out next. This is where I will be logging my efforts.
 
 ## How can I follow along?
 
-- Watch or Star this repository
+- Watch or Star this repository.
 - Hit me up on Twitter! Ping [@richlitt](https://twitter.com/richlitt). I'm watching everything today. Or send me an email.
 
 ## What is this repository
