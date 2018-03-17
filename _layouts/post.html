@@ -43,7 +43,9 @@
 
         <h2>{{ page.title }}</h2>
         {% if page.date %}
-        <time datetime="{{ page.date | date: "%Y-%m-%d %H-%M" }}">{{ page.date | date: "%A %m/%d at %H:%M" }}</time><br />
+        <p>
+          <time datetime="{{ page.date | date: "%Y-%m-%d %H-%M" }}">{{ page.date | date: "Posted on %A %m/%d at %H:%M" }}</time>
+        </p>
         {% endif %}
 
         {{ content }}

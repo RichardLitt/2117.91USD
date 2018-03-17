@@ -50,8 +50,9 @@
             {{ post.title }}
           </a>
         </h2>
-        <time datetime="{{ post.date | date: "%Y-%m-%d %H-%M" }}">{{ post.date | date: "%A %m/%d at %H:%M" }}</time><br />
-
+        <p>
+          <time datetime="{{ post.date | date: "%Y-%m-%d %H-%M" }}">{{ post.date | date: "Posted on %A %m/%d at %H:%M" }}</time>
+        </p>
         {{ post.content }}
       </article>
 
