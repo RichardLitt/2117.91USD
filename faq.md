@@ -1,15 +1,9 @@
-# 2117.91USD
+---
+layout: page
+title: FAQ
+---
 
-**Let's see how fast I can make $2117.91 USD. The goal is by end of day, Sunday March 18th.**
-
-Follow along by clicking on the blog posts above!
-
-Currently earned: $10.00.  
-_Contracted but not yet invoiced: $250.00._
-
-## Live Blogging
-
-[Go to the blog](https://richardlitt.github.io/2117.91USD/)!
+# FAQ
 
 ## How?
 

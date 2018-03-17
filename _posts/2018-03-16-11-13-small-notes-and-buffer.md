@@ -1,4 +1,8 @@
-# Small notes and Buffer
+---
+layout: posts
+title: Small notes and Buffer
+date: 2018-03-16T11:13:00Z
+---
 
 Started a new way of writing these. Just number them, don't write the heading until afterwards. Then, rename them. By the way, I am writing these in Atom, although iA Writer is my favourite writing program. Atom is closer to the code.
 

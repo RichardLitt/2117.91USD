@@ -1,4 +1,8 @@
-# Marketing this project
+---
+layout: posts
+title: Marketing this project
+date: 2018-03-16T13:06:00Z
+---
 
 I've been working on this project for a couple of hours now. I've made some money, which is great, and I've had a lot of personal connections come forward and make some stuff happen. But I'm afraid I am limiting myself to people on Twitter. I want more than that. I haven't marketed this to _any_ of my alumni networks, or my newsletters.
 

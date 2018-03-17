@@ -1,4 +1,8 @@
-# Machine Learning?
+---
+layout: posts
+title: Machine Learning?
+date: 2018-03-16T12:40:00Z
+---
 
 After closing my first sale, I got a bit distracted. First, I was going to run home to work on my lunch. Then, however, my friend Thomas Getgood walked into my cafe. Thomas is an awesome programmer, who brews his own beer, roasts his own coffee, and sometimes tries to build a fusion reactor in his apartment. He wants to work on machine learning this weekend.
 

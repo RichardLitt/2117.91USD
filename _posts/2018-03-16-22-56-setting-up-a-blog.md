@@ -1,4 +1,8 @@
-# Setting up a Blog
+---
+layout: posts
+title: Setting up a blog
+date: 2018-03-16T22:56:00Z
+---
 
 So, I failed at catching up with work quickly after dinner. It's 10:00, and I am back on, after more than a few hours off.
 

@@ -1,4 +1,8 @@
-# Afternoon goals
+---
+layout: posts
+title: Afternoon goals
+date: 2018-03-16T15:36:00Z
+---
 
 I went home, turned on Star Trek, ate some leftover roast, and had a wee meditation session / nap. Now, I feel a lot better.
 

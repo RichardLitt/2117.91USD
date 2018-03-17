@@ -1,4 +1,8 @@
-# Patron post
+---
+layout: posts
+title: Patreon Post
+date: 2018-03-16T16:03:00Z
+---
 
 I just published this post on my Patreon, in the Patrons only segment. I'm including it here as an example of what I do, and because it explains more what I am doing here.
 

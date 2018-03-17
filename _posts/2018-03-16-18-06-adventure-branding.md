@@ -1,4 +1,8 @@
-# Adventure Branding
+---
+layout: posts
+title: Adventure branding
+date: 2018-03-16T18:06:00Z
+---
 
 I spent the last two hours in a coffee shop, working on a single document. It happened like this: I dropped a link to this project in a few Slacks that made sense, and watched as nothing happened. Almost no reactions, and almost no comments. That's not a good sign.
 

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+{% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <a href="{{ site.github.url }}"> <h1>$2117.91</h1> </a>
+        <p><b>{{ site.description | default: site.github.project_tagline }}</b></p>
+
+        <p>Currently earned: $10.00.<br />
+        <i>Contracted but not yet invoiced: $250.00.</i></p>
+
+        <p><a href="/faq.html">Frequently Asked Questions</a></p>
+
+        <p>Twitter: <a href="https://twitter.com/richlitt">@richlitt</a><br/ >
+          Email: <a href="mailto:richard+2117@burntfen.com">richard@burntfen.com</a>
+        </p>
+
+        <p>Posts:</p>
+
+        <p>
+        {% for post in site.posts %}
+          - {{ post.date | date: "%a at %H:%M" }} - {{ post.title }}<br/ >
+        {% endfor %}
+        </p>
+
+        {% if site.github.is_project_page %}
+          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
+        {% endif %}
+      </header>
+      <section>
+
+      {{ content }}
+
+      {% for post in site.posts %}
+      <article>
+        <h2>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h2>
+        <time datetime="{{ post.date | date: "%Y-%m-%d %H-%M" }}">{{ post.date | date: "%A %m/%d at %H:%M" }}</time>
+        {{ post.content }}
+      </article>
+
+      <hr style="height:3px;margin:40px 0px;"/>
+
+      {% endfor %}
+
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+      </footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+
+  {% if site.google_analytics %}
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+    </script>
+  {% endif %}
+  </body>
+</html>

@@ -1,4 +1,8 @@
-# The First Tweet
+---
+layout: posts
+title: The First Tweet
+date: 2018-03-16T10:19:00Z
+---
 
 I just tweeted ["I'm going on an experiment. Want to follow along and join me? For the next three days, I'm going to be seeing if I can earn $2000 to pay off a student loan I have. I'm live-blogging my entire process, here."](https://twitter.com/richlitt/status/974650005041696768) It was the first tweet.
 
