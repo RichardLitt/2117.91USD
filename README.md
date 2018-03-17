@@ -4,8 +4,9 @@
 
 Follow along by clicking on the blog posts above!
 
+Funds to raise: $657.91  
 Currently earned: $10.00.  
-_Contracted but not yet invoiced: $250.00._
+_Contracted but not yet invoiced: $1450.00._
 
 ## Live Blogging
 
