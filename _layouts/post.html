@@ -31,7 +31,7 @@
 
         <p>
         {% for post in site.posts %}
-          - {{ post.date | date: "%a at %H:%M" }} - <a href={{post.url}}>{{ post.title }}</a><br/ >
+          - {{ post.date | date: "%a at %H:%M" }} - <a href="{{ site.github.url }}/{{post.url}}">{{ post.title }}</a><br/ >
         {% endfor %}
         </p>
 

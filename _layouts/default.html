@@ -21,7 +21,7 @@
         <p>Currently earned: $10.00.<br />
         <i>Contracted but not yet invoiced: $250.00.</i></p>
 
-        <p><a href="/faq.html">Frequently Asked Questions</a></p>
+        <p><a href="{{ site.github.url }}/faq.html">Frequently Asked Questions</a></p>
 
         <p>Twitter: <a href="https://twitter.com/richlitt">@richlitt</a><br/ >
           Email: <a href="mailto:richard+2117@burntfen.com">richard@burntfen.com</a>
@@ -31,7 +31,7 @@
 
         <p>
         {% for post in site.posts %}
-          - {{ post.date | date: "%a at %H:%M" }} - <a href={{post.url}}>{{ post.title }}</a><br/ >
+          - {{ post.date | date: "%a at %H:%M" }} - <a href="{{ site.github.url }}/{{post.url}}">{{ post.title }}</a><br/ >
         {% endfor %}
         </p>
 
