@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Adventure branding
 date: 2018-03-16T18:06:00Z
 ---

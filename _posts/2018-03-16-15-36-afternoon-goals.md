@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Afternoon goals
 date: 2018-03-16T15:36:00Z
 ---

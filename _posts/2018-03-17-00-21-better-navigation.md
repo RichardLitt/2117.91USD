@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Better navigation"
 date: 2018-03-17T00:21:00Z
 ---

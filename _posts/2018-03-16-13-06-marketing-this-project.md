@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Marketing this project
 date: 2018-03-16T13:06:00Z
 ---

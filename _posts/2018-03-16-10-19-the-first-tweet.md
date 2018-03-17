@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: The First Tweet
 date: 2018-03-16T10:19:00Z
 ---

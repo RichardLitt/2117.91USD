@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Setting up a blog
 date: 2018-03-16T22:56:00Z
 ---

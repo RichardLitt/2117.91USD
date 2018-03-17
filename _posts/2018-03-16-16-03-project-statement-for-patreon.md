@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Patreon Post
 date: 2018-03-16T16:03:00Z
 ---
