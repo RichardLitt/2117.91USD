@@ -6,7 +6,7 @@ date: 2018-03-17T16:56:46Z
 
 Probot has been fun to get working. I've got a basic app setup, and it is logging.
 
-![Probot logs](img/probot-logs.png)
+<img src="{{ site.github.url }}/img/probot-logs.png" alt="Probot logs" />
 
 You can follow along in the repository for this, [here](https://github.com/RichardLitt/jekyll-scheduler-probot). So far, I am going really slowly, mostly because I am having issues focusing, my internet connection is slow, and I'm just not used to Probot. Here are my current immediate questions:
 
