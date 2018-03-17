@@ -6,7 +6,7 @@ module RakeHelper
     begin
       date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
       date_time = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d-%H-%M')
-      date_time_long = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%dT%H:%M:%2NZ')
+      date_time_long = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%dT%H:%M:%SZ')
       return date, date_time, date_time_long
     rescue Exception => e
       puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"

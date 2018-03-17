@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "First day post mortem"
-date: 2018-03-17T00:53:92Z
+date: 2018-03-17T00:59:53Z
 ---
 
 Three hours after saying I'd start work on a blog, I have one up. It's still not entirely perfect - for instance, I need to include a section that says _why_ I am live blogging this thing, and that this site isn't necessarily to bring in money by itself, but to point out the efforts I am doing to make money elsewhere. This is just a way of me making the entire process public, because, frankly, that's not a bad marketing scheme.
