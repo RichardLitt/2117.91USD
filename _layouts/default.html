@@ -14,31 +14,7 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <a href="{{ site.github.url }}"> <h1>$2117.91</h1> </a>
-        <p><b>{{ site.description | default: site.github.project_tagline }}</b></p>
-
-        <p>Currently earned: $10.00.<br />
-        <i>Contracted but not yet invoiced: $250.00.</i></p>
-
-        <p><a href="{{ site.github.url }}/faq.html">Frequently Asked Questions</a></p>
-
-        <p>Twitter: <a href="https://twitter.com/richlitt">@richlitt</a><br/ >
-          Email: <a href="mailto:richard+2117@burntfen.com">richard@burntfen.com</a>
-        </p>
-
-        <p>Posts:</p>
-
-        <p>
-        {% for post in site.posts %}
-            - {{ post.date | date: "%a at %H:%M" }} - <a href="{{ site.github.url }}{{post.url}}">{{ post.title }}</a><br/ >
-        {% endfor %}
-        </p>
-
-        {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-        {% endif %}
-      </header>
+      {% include sidebar.html %}
       <section>
 
       {{ content }}
