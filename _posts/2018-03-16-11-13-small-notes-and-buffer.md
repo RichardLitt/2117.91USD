@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: page
 title: Small notes and Buffer
 date: 2018-03-16T11:13:00Z
 ---

@@ -3,8 +3,6 @@ layout: page
 title: FAQ
 ---
 
-# FAQ
-
 ## How?
 
 I have no idea. I'm going to figure that out next. This is where I will be logging my efforts.

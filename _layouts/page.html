@@ -15,11 +15,46 @@
   <body>
     <div class="wrapper">
 
-      <a href="/" style="padding-bottom: 50px;">Beam me home, Scotty!</a>
+      <header>
+        <a href="/"> <h1>$2117.91</h1> </a>
+        <p><b>{{ site.description | default: site.github.project_tagline }}</b></p>
+
+        <p>Currently earned: $10.00.<br />
+        <i>Contracted but not yet invoiced: $250.00.</i></p>
+
+        <p><a href="/faq.html">Frequently Asked Questions</a></p>
+
+        <p>Twitter: <a href="https://twitter.com/richlitt">@richlitt</a><br/ >
+          Email: <a href="mailto:richard+2117@burntfen.com">richard@burntfen.com</a>
+        </p>
+
+        <p>Posts:</p>
+
+        <p>
+        {% for post in site.posts %}
+          - {{ post.date | date: "%a at %H:%M" }} - <a href={{post.url}}>{{ post.title }}</a><br/ >
+        {% endfor %}
+        </p>
+
+        {% if site.github.is_project_page %}
+          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
+        {% endif %}
+      </header>
+      <section>
+
+      <h2>{{ page.title }}</h2>
+      {% if page.date %}
+      <time datetime="{{ page.date | date: "%Y-%m-%d %H-%M" }}">{{ page.date | date: "%A %m/%d at %H:%M" }}</time><br />
+      {% endif %}
 
       {{ content }}
 
-      <a href="/">Beam me home, Scotty!</a>
+      <hr style="height:3px;margin:40px 0px;"/>
+
+            <p>
+              <a href="/" style="padding-bottom: 50px;">Beam me home, Scotty!</a>
+            </p>
+    </section>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: page
 title: Machine Learning?
 date: 2018-03-16T12:40:00Z
 ---
