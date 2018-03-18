@@ -4,7 +4,7 @@ title: "Jekyll Scheduler builds on command"
 date: 2018-03-18T13:02:37Z
 ---
 
-Ok. I've ordered my dirty chia latte, the champion's drink of choice that I normally reserve for when I have a free point on my card, because it's just that much more expensive that a normal drink. Now I'm hyped up (and still incredibly tired), it's after 11, and I still haven't done any substantive work today.
+Ok. I've ordered my dirty chai latte, the champion's drink of choice that I normally reserve for when I have a free point on my card, because it's just that much more expensive that a normal drink. Now I'm hyped up (and still incredibly tired), it's after 11, and I still haven't done any substantive work today.
 
 Incidentally, I've gone and looked at my student loan. It's accrued over a dollar of interest from yesterday, so it's not $2117.91 anymore, but it doesn't matter - I'll pay it off tomorrow when I can call the company and make sure that the funds go to the right account (it's lumped with another $4,000 4.5%APR loan that I'm not worried about at the moment). That's exciting.
 
